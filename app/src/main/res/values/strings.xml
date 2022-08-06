@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App23</string>
+    <string name="enter_you_name">Enter you name</string>
+    <string name="enter_your_age">Enter your age</string>
+</resources>
